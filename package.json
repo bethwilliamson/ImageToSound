@@ -40,7 +40,7 @@
     "electron-squirrel-startup": "^1.0.0",
     "image-pixels": "^2.2.2",
     "scribbletune": "^3.5.0",
-    "sharp": "^0.25.3"
+    "sharp": "^0.30.5"
   },
   "config": {
     "forge": {
