@@ -1,6 +1,6 @@
 # Image To Sound
 
-_This project is a collaboration between a difital artist and software developer._
+_This project is a collaboration between a digital artist and software developer._
 
 <img align="left" src="img/ImageToSoundLogo2.png">
 <br/>
